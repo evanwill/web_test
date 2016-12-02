@@ -3,11 +3,14 @@ layout: page
 title: Home
 ---
 
-# test
+# web_test
 
-> now
+> a greate test website!
 
-## hey!
+## lets see
 
-- yo
-- yo
+How does this work?
+
+- dogs
+- cats
+- muffins
