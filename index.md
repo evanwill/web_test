@@ -1,6 +1,6 @@
 ---
 
-layout: defaut
+layout: page
 
 ---
 
