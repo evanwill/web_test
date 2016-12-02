@@ -1,3 +1,9 @@
+---
+
+layout: defaut
+
+---
+
 # test
 
 > now
