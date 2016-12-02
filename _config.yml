@@ -1,0 +1,11 @@
+title: web_test
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Wonderful test jekyll GH-Pages site
+baseurl: "/web_test" 
+url: "https://evanwill.github.io" 
+github_username:  evanwill
+
+# Build settings
+markdown: kramdown
+theme: minima
